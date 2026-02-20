@@ -1,0 +1,9 @@
+a = input()
+b = input()
+separator = input()[0]
+
+########### Write your code below ###############
+
+print(a,b)
+print(a,b+a+separator+b)
+print(a+b)
